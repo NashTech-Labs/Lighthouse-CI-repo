@@ -20,7 +20,7 @@ This template Consists of how to Install Lighthouse CI on the Local machine
 
 2) Node.js should be installed version greater than 14
 
-3) clone the repository :- 
+3) clone the repository :- https://github.com/knoldus/Lighthouse-CI-repo/tree/master/Lighthouse-CI-tech-hub
 
 4) Run the command to Execute the report  lhci autorun
 
