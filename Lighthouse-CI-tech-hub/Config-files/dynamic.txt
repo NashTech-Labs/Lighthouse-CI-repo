@@ -1,0 +1,4 @@
+// Dynamic site example
+collect: {
+  startServerCommand: 'npm run start',
+}

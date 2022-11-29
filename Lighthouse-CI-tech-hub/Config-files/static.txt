@@ -1,0 +1,4 @@
+// Static site example
+collect: {
+  staticDistDir: './public',
+}
