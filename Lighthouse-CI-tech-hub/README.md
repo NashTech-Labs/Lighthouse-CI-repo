@@ -12,7 +12,7 @@ This template Consists of how to Install Lighthouse CI on the Local machine
 
 4)You can store the results in the Lighthouse CI server.
 
-5) Complete control over Lighthouse and its CI.
+5)Complete control over Lighthouse and its CI.
 
 # Steps For Installation  
 
